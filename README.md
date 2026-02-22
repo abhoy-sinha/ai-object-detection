@@ -1,4 +1,5 @@
-# 🎯 AI Object Detection Web App
+# 🎯 AI Object Detection
+**Internship Project — AICTE | IBMSKILLBUILDS | Edunet Foundation**
 
 ## 📌 Project Overview
 
