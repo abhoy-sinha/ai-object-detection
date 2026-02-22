@@ -83,9 +83,12 @@ https://abhoy-sinha.github.io/ai-object-detection/
 **Abhoy Sinha**  
 B.Tech – Energy Engineering  
 IBM SkillBuild Intern  
-
 **Student ID:** STU69247dd6472941763999190  
 **Internship ID:** INTERNSHIP_1764758976693015c089a5a
+
+**Email:** abhoysinhalive@gmail.com
+
+**Linkedin:** https://www.linkedin.com/in/abhoysinha/
 
 ---
 ## 📄 License
